@@ -9,5 +9,6 @@ Collecting resources on creating a meshnet
 
 ## Seattle-specific
 Seattle does not currently have an active meshnet, but interest has shown up in some communities:
-[/r/seattlemesh](https://www.reddit.com/r/SeattleMeshnet/)
-#seattle:matrix.org room on [Matrix](https://matrix.org/)
+
+* [/r/seattlemesh](https://www.reddit.com/r/SeattleMeshnet/)
+* #seattle:matrix.org room on [Matrix](https://matrix.org/)
