@@ -1,11 +1,17 @@
 # Meshnet Resources
 Collecting resources on creating a meshnet
 
+## Docs to read
+
 * [DWeb Camp Meshnet](https://dweb-camp-2019.github.io/meshnet/)
 * [NYC Mesh Docs](https://docs.nycmesh.net/)
 * [Toronto Mesh Build a Node](https://tomesh.net/build-a-node/)
 * [Commotion Wireless](https://commotionwireless.net/)
 * [People's Open Network (Oakland)](https://peoplesopen.net/)
+
+## People to ask
+
+* [NYC Mesh Slack](http://docs.nycmesh.net/)
 
 ## Seattle-specific
 Seattle does not currently have an active meshnet, but interest has shown up in some communities:
